@@ -50,4 +50,3 @@ This source code is for educational purposes only. It's created to explore rever
 ## License
 
 This project is licensed under the MIT. For more information, see the [License](LICENSE).
- 
